@@ -4,7 +4,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=F70000&lines=Motivated+Computer+Science+Student;Linux+System+Administrator;DevOps+Practitioner;AWS+Cloud+Explorer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=0F9D58&lines=Linux+System+Administrator;DevOps+Practitioner;AWS+Cloud+Explorer;Problem+Solver+%26+Team+Player)
 
 ---
 
@@ -21,15 +21,15 @@
 ![AWS](https://img.shields.io/badge/AWS-Basics-orange?logo=amazonaws)  
 ![DevOps](https://img.shields.io/badge/DevOps-Jenkins%20%7C%20Docker%20%7C%20Git-blue?logo=devops)  
 ![Programming](https://img.shields.io/badge/Programming-Python%20%7C%20C%20%7C%20HTML%20%7C%20CSS%20%7C%20JS-yellow?logo=python)  
-![Databases](https://img.shields.io/badge/Database-MySQL-lightgrey?logo=mysql)  
+![Database](https://img.shields.io/badge/Database-MySQL-lightgrey?logo=mysql)  
 
 ---
 
 ### 📂 Projects
 - **Personal DevOps Portfolio Deployment**  
-  - CI/CD pipeline using Jenkins  
-  - Containerized with Docker  
-  - GitHub webhooks for automation  
+  - Automated CI/CD pipeline with Jenkins  
+  - Containerized app using Docker  
+  - GitHub webhooks for auto‑trigger  
   - Docker images pushed to Docker Hub  
 
 - **Hostel Management System**  
@@ -42,7 +42,7 @@
 
 ### 📜 Certifications
 - Frontend Development (HTML, CSS, JS, Responsive Design)  
-- DevOps (CI/CD, Linux, Docker, Cloud Computing)  
+- DevOps Fundamentals (CI/CD, Linux, Docker, Cloud Computing)  
 - Extracurricular Activities (College Events & Sports)  
 
 ---
@@ -55,14 +55,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaikhirfan82&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaikhirfan82&theme=radical)  
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)  
 
 ---
 
-### 🎬 Fun Animations
-<img src="https://media.giphy.com/media/LMt9638dO8dftqhYMQ/giphy.gif" width="60">  
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60">  
-<img src="https://media.giphy.com/media/SS8CV5rP3rS60/giphy.gif" width="60">  
-
----
+### 🤝 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
+- 📧 Email: yourname@example.com  
