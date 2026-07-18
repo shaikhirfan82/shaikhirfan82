@@ -3,9 +3,11 @@
 🚀 **Computer Science Student | DevOps Enthusiast | AWS Learner**
 
 ---
-+Hi,+I'm+Irfan;DevOps+Engineer;Linux+Administrator;AWS+Cloud+Learner)
-![Irfan Banner](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Irfan&fontSize=60&animation=fadeIn)
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
+![Irfan 3D Banner](https://capsule-render.vercel.app/api?type=rect&text=Irfan&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=50&color=gradient&animation=fadeIn)
+![Irfan Wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Irfan&fontSize=60&animation=twinkling)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=0F9D58&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Irfan;DevOps+Engineer;Linux+Administrator;AWS+Cloud+Learner)
+![Irfan 3D](https://capsule-render.vercel.app/api?type=rounded&text=Irfan&fontSize=50&color=gradient&animation=fadeIn)
+
 # Irfan
 
 
