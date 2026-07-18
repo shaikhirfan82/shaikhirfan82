@@ -5,6 +5,11 @@
 ---
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=0F9D58&lines=Linux+System+Administrator;DevOps+Practitioner;AWS+Cloud+Explorer;Problem+Solver+%26+Team+Player)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=0F9D58&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Irfan;DevOps+Engineer;Linux+Administrator;AWS+Cloud+Learner)
+![Irfan Banner](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Irfan&fontSize=60&animation=fadeIn)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
+# Irfan
+
 
 ---
 
