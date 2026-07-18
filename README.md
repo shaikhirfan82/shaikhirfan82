@@ -59,5 +59,5 @@
 ---
 
 ### 🤝 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/irfan-shaikh-a590772bbN) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/irfan-shaikh-a590772bb/) 
 - 📧 Email: shaikhirfan08255@gmail.com
